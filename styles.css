@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+    font-family: 'Consolas';
+}
+table {
+    margin: 0 auto;
+    border-style: none;
+    border: 5 px;
+    border-radius: 15px; 
+    border-color: rgb(133, 114, 56);
+    
+}
+td, tr{
+    border-style: solid;
+    border: 10 px;
+    border-radius: 10px; 
+    border-color: white;
+
+}
+
+body {
+    background-color:  #49779c;
+}
+img {
+    border-radius: 30px;
+    padding: 10px;
+    width: 450px;
+  }
+  
